@@ -1,0 +1,28 @@
+// Variable:
+// Una variable es un elemento que se emplea para almacenar y hacer referencia a otro valor.
+// Las variables en JavaScript se crean mediante la palabra reservada var.
+
+// Strings:
+// Las “strings” son bloques de texto, siempre se definirán entre comillas, ya sea simple o doble.
+// Cualquier texto entre comillas es una cadena o string.
+
+// Funciones (argumentos, return):
+// Una función en JavaScript es similar a un procedimiento — un conjunto de instrucciones que realiza
+// una tarea o calcula un valor, pero para que un procedimiento califique como función, debe tomar alguna
+// entrada y devolver una salida donde hay alguna relación obvia entre la entrada y la salida.
+// se definen mediante la palabra reservada function , seguida del nombre de la función. 
+// Su definición formal es la siguiente: function nombre_funcion() { ... } El nombre de la función 
+// se utiliza para llamar a esa función cuando sea necesario.
+
+
+// Declaraciones if: 
+// If es una estructura de control utilizada para tomar decisiones. Es un condicional que sirve para 
+// realizar unas u otras operaciones en función de una expresión, se ejecuta una sentencia si una condición
+// específicada es evaluada como verdadera, o evaluada como falsa, otra sentencia puede ser ejecutada.
+
+
+// Valores booleanos (true, false):
+// Boolean es una clase de JavaScript que permite crear valores boleanos a partir de valores no boleanos.
+// un valor verdadero es un valor que se considera true/verdadero cuando es evaluado en un contexto Booleano.
+// Todos los valores son verdaderos a menos que se definan como falso (es decir, excepto false , 0 , "" , null ,
+// undefined , y NaN ).

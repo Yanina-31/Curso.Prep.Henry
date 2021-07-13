@@ -1,0 +1,4 @@
+// Un array es una lista de elementos, que pueden aceptar todos los tipos de datos y es posible mezclar estos datos
+// dentro del mismo array ejemplo: new Array('Marzo', 31, [1,2,3,4,5], 'Yanina');
+// (Strings, Numbers, Booleanos, inclusive pueden tener un elemento que sea otro array), se almacenan
+// en posiciones consecutivas de memoria, arrancando desde 0.

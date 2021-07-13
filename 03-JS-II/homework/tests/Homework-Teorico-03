@@ -1,0 +1,22 @@
+// FOR:
+// El bucle FOR se utiliza para repetir una o más instrucciones un determinado número de veces.
+// Se suele utilizar cuando sabemos seguro el número de veces que queremos que se ejecute.
+// Se debe declarar una variable, esto es sobre lo que se repetirá el bucle. 
+// El ciclo continuará sucediendo hasta que esta declaración sea falsa.
+// Y por ultimo, se incrementa la variable. Las declaraciones están separadas por un punto y coma.
+
+
+// && AND (y):
+// Operador lógico “Y” (“AND”). Está escrito con dos símbolos (&&). Esto evaluará ambas expresiones
+// y devolverá verdadero si AMBAS expresiones son true. Si uno (o ambos) de ellos es falso, este
+// operador devolverá false.
+
+
+// || OR (o):
+// Operador lógico “Ó” (“OR”). Está escrito con dos barras verticales (||). Determinará si una de las
+// expresiones es true. Devolverá true si una (o ambas) de las expresiones es true. 
+// Devolverá false si AMBAS expresiones son false.
+
+// ! NOT (NO):
+// Operador lógico “NOT” (“NO”). Está escrito como un solo signo de exclamación (!). Devolverá el valor 
+// booleano opuesto de lo que se le pasa.
