@@ -1,0 +1,19 @@
+// Objetos:
+// un objeto es una coleccion de propiedades. Los objetos manipulan datos de entrada para
+// obtener datos de salida. 
+
+// Propiedades:
+// Una propiedad es una asociacion entre nombre ( o clave) y un valor.
+
+// Métodos:
+// Un metodo es una función la cual es propiedad de un Objeto. Los métodos sirven para hacer 
+// acciones como una ventana emergente, modificar las propiedades de un objeto, añadir elementos 
+//a una lista, quitarlos, transformar un string en un número entero o decimal.
+
+// Bucle for…in:
+// La instrucción for-in itera sobre todas las propiedades enumerables de un objeto que está codificado
+// por cadenas (ignorando los codificados por Símbolos , incluidas las propiedades enumerables heredadas.
+
+// Notación de puntos vs notación de corchetes:
+// La notación de puntos es más rápida de escribir y más clara de leer. La notación de corchetes permite 
+// el acceso a propiedades que contienen Caracteres especiales y selección de. propiedades usando variables.
