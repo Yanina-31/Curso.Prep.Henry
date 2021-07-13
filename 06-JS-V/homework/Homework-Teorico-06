@@ -1,0 +1,10 @@
+// prototype:
+// La propiedad prototype es un objeto que contiene una propiedad constructor y su valor es la función.
+// El prototipo de los objetos creados con la sintaxis new Object() o {} es Object.prototype
+// El prototipo de los arreglos creados con la sintaxis new Array() o [] es Array.prototype
+// Y es igual con otros objetos integrados como Date y RegExp.
+// Object.prototype es heredado por todos los objetos y no tiene prototipo (su prototipo es null)
+
+// Constructors (de Clases):
+// El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
+
