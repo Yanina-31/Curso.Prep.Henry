@@ -1,0 +1,8 @@
+// Funciones Callback:
+// Una función de callback es una función que se pasa a otra función como un argumento, que luego se invoca
+// dentro de la función externa para completar algún tipo de rutina o acción.
+// Un concepto muy importante en Javascript es la capacidad de pasar una función como 
+// argumento a otra función. Estas funciones se denominan callbacks. Estas funciones pueden
+// llamarse en cualquier momento y pasar argumentos dentro de la función. Pronto descubriremos
+// por qué las devoluciones de llamada son tan importantes para Javascript. La convención es usar cb 
+// como argumento para la variable que se usará de callback.

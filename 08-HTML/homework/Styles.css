@@ -1,0 +1,19 @@
+
+body {
+    color: violet;
+     }
+
+
+.divClass {
+        font-size: 18px;
+        margin: 50px;
+        }
+    
+#divId {
+        height: 600px;
+        width: 500px;
+        color: plum;
+        padding: 50px;
+        border: 10px solid silver;
+        width: 400px;
+        } 
